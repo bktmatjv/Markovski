@@ -284,3 +284,5 @@ class PantallaMarkov(ctk.CTkFrame):
 if __name__ == "__main__":
     app = App()
     app.mainloop()
+#   d u m m y   u p d a t e  
+ 
